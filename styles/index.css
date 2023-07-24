@@ -10,9 +10,16 @@ header nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    width: 100%;
 }
 
 header nav ul {
     display: flex;
+    justify-content: space-evenly;
     list-style: none;
+    padding: 0;
+
+    width: 60%;
+    height: 100%;
 }
